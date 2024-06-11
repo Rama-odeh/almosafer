@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-11T14:13:52 EEST" name="Default suite" finished-at="2024-06-11T14:13:55 EEST" duration-ms="3193">
+    <groups>
+    </groups>
+    <test started-at="2024-06-11T14:13:52 EEST" name="Default test" finished-at="2024-06-11T14:13:55 EEST" duration-ms="3193">
+      <class name="almosafer.myTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:almosafer.myTestCases@5b58ed3c]" started-at="2024-06-11T14:13:52 EEST" name="mySetup" finished-at="2024-06-11T14:13:55 EEST" duration-ms="3068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="firstTest()[pri:0, instance:almosafer.myTestCases@5b58ed3c]" started-at="2024-06-11T14:13:55 EEST" name="firstTest" finished-at="2024-06-11T14:13:55 EEST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- almosafer.myTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
