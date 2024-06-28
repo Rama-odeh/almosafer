@@ -6,7 +6,7 @@
       <class name="almosafer.myTestCases">
         <methods>
           <include name="mySetup"/>
-          <include name="HotelSelection"/>
+          <include name="sortItems"/>
         </methods>
       </class> <!-- almosafer.myTestCases -->
     </classes>
