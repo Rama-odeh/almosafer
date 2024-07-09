@@ -5,8 +5,18 @@
     <classes>
       <class name="almosafer.myTestCases">
         <methods>
-          <include name="mySetup"/>
+          <include name="selectNumberOfPeople"/>
+          <include name="checkDepatureAndReturnDate"/>
           <include name="sortItems"/>
+          <include name="mySetup"/>
+          <include name="CheckTheCurrencyIsSAR"/>
+          <include name="checkThePageISFullyLoaded"/>
+          <include name="checkQitafLogoIsDisplayed"/>
+          <include name="checkHotelTabIsNotSelected"/>
+          <include name="CheckContactNumber"/>
+          <include name="HotelSelection"/>
+          <include name="changeTheLanguageOfTheWebsiteRandomly"/>
+          <include name="CheckTheLanguage"/>
         </methods>
       </class> <!-- almosafer.myTestCases -->
     </classes>
